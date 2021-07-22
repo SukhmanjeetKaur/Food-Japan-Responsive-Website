@@ -1,0 +1,229 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    /* border: 2px solid red; */
+    background-color:#ef6c00e6;
+    color: white;
+    height:40px;
+}
+.navhead{
+    margin-left: 460px;
+    padding-top: 5px;
+}
+.sign{
+    /* width: 50%; */
+    text-align: right;
+    /* border: 2px solid red; */
+    margin-top: -650px;
+    margin-right: 50px;
+    color:#ef6c00e6;
+}
+
+.head{
+    /* border: 2px solid black; */
+    text-align: right;
+    margin-top: 200px;
+    margin-right: 80px;
+    margin-left:950px;
+    font-size: 25px;
+    color:#ef6c00e6;
+}
+#search{
+    width: 20%;
+    height: 35px;
+    /* border: 2px solid black; */
+    border-radius: 4px;
+
+    
+}
+.bar{
+    /* border: 2px solid black; */
+    text-align: right;
+    margin-top: 60px;
+    margin-right: 90px;
+    
+}
+.btnn{
+    width: 10%;
+    height: 30px;
+    /* border: 2px solid red; */
+    margin-left: 20px;
+    border-radius: 2px;
+    color: white;
+    background-color:#ef6c00e6;
+    
+}
+.bigcontainer{
+    /* border: 2px solid chartreuse; */
+    margin-top: 200px;
+}
+.container{
+    display:flex;
+    /* border: 4px solid black; */
+    padding-left: 200px;
+}
+.subline{
+    color: #ef6c00e6;
+    font-weight: bolder;
+    /* border: 2px solid brown; */
+    margin-top: 10px;
+}
+.box{
+    /* border: 2px solid red; */
+    margin-top: 15px;
+    width: 300px;
+    margin-left: 50px;
+}
+.box img{
+    /* border: 2px solid brown; */
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.box h2{
+    /* border: 2px solid brown; */
+    padding-left: 30px;
+    
+}
+.pic1{
+    text-align: right;
+    padding-right: 100px;
+    padding-top: 30px;
+    /* border: 2px solid black; */
+}
+.about{
+    font-size: 30px;
+    font-weight: 600;
+    /* border: 2px solid orange; */
+    margin-top: -350px;
+    margin-left: 80px;
+    margin-right: 1100px;
+    color: black;
+}
+.about1{
+    margin-right: 900px;
+    margin-left: 80px;
+    padding-top: 30px;
+}
+.getapp{
+    border: 2px solid #ef6c00e6;
+    margin-left: 80px;
+    margin-right: 1270px;
+    margin-top: 20px;
+    background-color: #ef6c00e6;
+    border-radius: 24px;
+    color: white;
+    font-weight: bold;
+    padding:8px;
+}
+.second{
+    margin-top: 60px;
+    width: 100%;
+    height: 90vh;
+    background-color: #d2691e26;
+}
+.pic2{
+    padding-top: 80px;
+    margin-left: 80px;
+    /* border: 2px solid red; */
+}
+.about3{
+     /* border: 2px solid red;  */
+     margin-top: -380px;
+     text-align: right;
+     font-size: 27px;
+    font-weight: 600;
+    /* border: 2px solid orange; */
+    /* margin-top: -350px; */
+    /* margin-left: 80px; */
+    margin-right: 190px;
+    color: black;
+}
+.about4{
+    /* border: 2px solid red; */
+    margin-left: 950px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+.getapp2{
+    border: 2px solid #ef6c00e6;
+    margin-left: 1160px;
+    margin-right: 190px;
+    margin-top: 20px;
+    background-color: #ef6c00e6;
+    border-radius: 24px;
+    color: white;
+    font-weight: bold;
+    padding:8px;
+    text-align: right;
+}
+#contact-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 34px;
+    background-color: #d2691e26;
+}
+#contact-box input, 
+#contact-box textarea{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+} 
+
+#contact-box form{
+    width: 40%;
+}
+
+#contact-box label{
+   font-size: 1.3rem;
+   font-family: 'Bree Serif', serif;
+   /* background-color: #d2691e26; */
+
+}
+
+
+footer{
+    background: black;
+    color: white;
+    padding: 9px 20px;
+}
+
+/* Utility Classes */
+.h-primary{
+    font-family: 'Bree Serif', serif;
+    font-size: 3.8rem;
+    padding: 12px;
+    background-color: #d2691e26;
+}
+
+.h-secondary{
+    font-family: 'Bree Serif', serif;
+    font-size: 2.3rem;
+    padding: 12px;
+}
+
+/* .btn{
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: brown;
+    color: white;
+    margin: 17px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    cursor:pointer;
+} */
+
+.center{
+    text-align: center;
+}
+footer{
+    background-color: #ef6c00e6;
+}
+.rightside{
+    text-align: right;
+    /* border: 2px solid black; */
+    margin-top: -20px;
+}
