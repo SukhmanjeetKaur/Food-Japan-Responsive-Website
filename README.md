@@ -7,4 +7,10 @@ Responsive web design is an approach to web design that makes web pages render w
 
 With competition being stronger and stronger, one needs a solid food website templates to help you stand out from the masses.
 
-I have developed a Responsive Food Japan Website which is a template of a Food Business Website in which one can give orders for the Food, can join the Food Japan Company as delivery person and can become the member of the company. 
+![food1](https://user-images.githubusercontent.com/87376487/127772053-2fabc1b6-1065-48f4-b4fc-b1c835d93862.png)
+
+![food2](https://user-images.githubusercontent.com/87376487/127772107-aaafaeb0-1cbc-4804-80fd-612ba8157e36.png)
+
+![food3](https://user-images.githubusercontent.com/87376487/127772159-a228be49-9cc4-4f17-9fc0-991b69662c20.png)
+
+![food4](https://user-images.githubusercontent.com/87376487/127772171-4b72d665-ad2d-4e13-8537-26ad295669fe.png)
