@@ -18,6 +18,10 @@ Food Japan is with tagline ご家族やご友人との食事のお祝いを素�
 
 ![food4](https://user-images.githubusercontent.com/87376487/127772171-4b72d665-ad2d-4e13-8537-26ad295669fe.png)
 
+Get creative, enrich the tool with your individual touches, and make your website stand out a mile without breaking a single drop of sweat. 
+Hope you love the theme of My Food Japan Website. Thank You! :)
+
+ありがとうございました！ 健康を維持し、健康的な食事
 
 
 
